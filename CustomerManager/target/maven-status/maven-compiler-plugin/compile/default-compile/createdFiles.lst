@@ -1,0 +1,7 @@
+net\codejava\buku\BukuService.class
+net\codejava\config\WebMvcConfig.class
+net\codejava\buku\Buku.class
+net\codejava\config\JpaConfig.class
+net\codejava\buku\BukuRepository.class
+net\codejava\config\WebAppInitializer.class
+net\codejava\buku\BukuController.class
